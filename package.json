@@ -1,11 +1,15 @@
 {
   "name": "@tabbu724/newdir",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "repository": "https://github.com/tabbu724/newdir.git"
 }
